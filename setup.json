@@ -1,13 +1,12 @@
 {
     "forme_social": "association",
-    "logo": "https://raw.githubusercontent.com/PerrineHarmonie/boutique-produits/main/logo.png",
-    "nom": "Perrine Pottiez",
-    "a_propos": "https://www.perrinepottiez.com/p/qui-suis-je.html",
-    "proprietaire": "Perrine Pottiez",
-    "email": "pottiezperrine@yahoo.fr",
-    "site": "https://boutique.perrinepottiez.com",
-    "siege": " 20, rue Antonio Vivaldi, 31300 Toulouse",
-    "enregistrement": "des greffes du tribunal de Toulouse",
+    "nom": "Créé Ici",
+    "a_propos": "https://www.creeici.com/a-propos",
+    "proprietaire": "Esther Wyss",
+    "email": "info@creeici.com",
+    "site": "https://www.creeici.com",
+    "siege": "41, rue Alsace Lorraine, 29160 Crozon",
+    "enregistrement": "des greffes du tribunal de Quimper",
     "RCS": "xxx xxx xxx",
     "APE": "xxxx-x"
 }
