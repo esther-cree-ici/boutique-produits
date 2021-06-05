@@ -1,4 +1,4 @@
-# Dépôt exemple pour Créée Ici
+# Dépôt exemple pour brutdethe/shop
 
 Ce dépôt contient les données pour alimenter la boutique proposée par Brut de Thé : https://github.com/brutdethe/shop
 

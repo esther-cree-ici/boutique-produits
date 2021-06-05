@@ -1,46 +1,92 @@
-[
-   {
-        "id": "ts_1",
+[{
+        "id": "th1",
         "titre": {
-            "en": "Linen t.shirt long sleeves",
-            "fr": "T.shirt en lin manches longues"
+            "en": "Teapot for GongFuCha",
+            "fr": "Théière pour GongFuCha 120ml"
         },
-        "modification": "2021-06-05",
-        "création": "2021-06-05",
-        "catégorie": "T.Shirt",
+        "modification": "2021-06-02",
+        "création": "2021-06-02",
+        "catégorie": "Théière",
         "description": {
-            "en": "A beautiful long sleeves t.shirt designed and sewn up in Brittany.",
-            "fr": "Un joli t.shirt manches longues en lin naturel, inventé et cousu en Bretagne."
+            "en": "This teapot is modeled by the pinch technique, engobed with thin layers of clay settling and enamelled with oak ash and crushed minerals. It has a filter.",
+            "fr": "Cette théière est modelée par la technique du pincé, engobée de fines couches de décantation d'argile et émaillée aux cendres de chêne et minéraux broyés. Elle est doté d'un filtre."
         },
-        "prix": 75.00,
+        "prix": 162.00,
         "poids": 0.150,
-        "quantité_produite": 10,
+        "capacité": 120,
+        "quantité_produite": 1,
         "photos": [
-            "ts_1-a.jpg",
-            "ts_1-b.jpg",
-            "ts_1-c.jpg"
+            "thA1.jpg",
+            "thB1.jpg",
+            "thC1.jpg",
+            "thD1.jpg"
         ]
     },
     {
-        "id": "ts_2",
+        "id": "ve1",
         "titre": {
-            "en": "Linen t.shirt short sleeves",
-            "fr": "T.shirt en lin manches courtes"
+            "en": "Jug",
+            "fr": "Verseuse 180ml"
         },
-        "modification": "2021-06-05",
-        "création": "2021-06-05",
-        "catégorie": "T.Shirt",
+        "modification": "2021-06-02",
+        "création": "2021-06-02",
+        "catégorie": "Verseuse",
         "description": {
-            "en": "A beautiful short sleeves t.shirt designed and sewn up in Brittany.",
-            "fr": "Un joli t.shirt manches courtes en lin naturel, inventé et cousu en Bretagne."
+            "en": "This jug is modeled by the pinch technique, finely enamelled with oak ash and crushed minerals, it remains very slightly porous",
+            "fr": "Cette verseuse est modelée par la technique du pincé, finement émaillée aux cendres de chêne et minéraux broyés, elle reste très légèrement poreuse"
         },
-        "prix": 75.00,
-        "poids": 0.150,
-        "quantité_produite": 5,
+        "prix": 92.00,
+        "poids": 0.96,
+        "capacité": 180,
+        "quantité_produite": 1,
         "photos": [
-            "ts_2-a.jpg",
-            "ts_2-b.jpg",
-            "ts_2-c.jpg"
+            "veA1.jpg",
+            "veB1.jpg"
+        ]
+    },
+    {
+        "id": "ve2",
+        "titre": {
+            "en": "Jug",
+            "fr": "Verseuse 160ml"
+        },
+        "modification": "2021-06-02",
+        "création": "2021-06-02",
+        "catégorie": "Verseuse",
+        "description": {
+            "en": "This jug is modeled by the pinch technique, enamelled with oak ash and crushed minerals, it has a slightly sparkling appearance",
+            "fr": "Cette verseuse est modelée par la technique du pincé, émaillée aux cendres de chêne et minéraux broyés, elle a un aspect légèrement scintillant"
+        },
+        "prix": 92.00,
+        "poids": 0.108,
+        "capacité": 160,
+        "quantité_produite": 1,
+        "photos": [
+            "veA2.jpg",
+            "veB2.jpg",
+            "veC2.jpg"
+        ]
+    },
+    {
+        "id": "ve3",
+        "titre": {
+            "en": "Jug",
+            "fr": "Verseuse 120ml"
+        },
+        "modification": "2021-06-02",
+        "création": "2021-06-02",
+        "catégorie": "Verseuse",
+        "description": {
+            "en": "This jug is modeled by the pinch technique, engobed with many layers of arigles decatations picked in nature, I then enameled it with oak ash and crushed minerals, it has a matte and soft appearance",
+            "fr": "Cette verseuse est modelée par la technique du pincé, engobée de nombreuses couches de décatations d'arigles cueillies dans la nature, je l'ai ensuite émaillée aux cendres de chêne et minéraux broyés, elle a un aspect mat et doux"
+        },
+        "prix": 102.00,
+        "poids": 0.107,
+        "capacité": 120,
+        "quantité_produite": 1,
+        "photos": [
+            "veA3.jpg",
+            "veB3.jpg"
         ]
     }
 ]
