@@ -1,33 +1,12 @@
 {
 
-    "Théière": {
+    "T.Shirt": {
         "titre": {
-            "fr": "Théière",
-            "en": "Teapot"
+            "fr": "T.Shirt",
+            "en": "T.Shirt"
         },
         "description": {
-            "fr": "Réalisées avec lenteur, d'une boule d'argile tournée et pincée entre mes doigts, mes théières prennent la forme de leur envie. Une ligne, courbée comme le cou d'un oiseau, le prolongement d'un bec, tout en douceur pour que l'eau puisse s'y écouler",
-            "en": "Made slowly, with a ball of clay turned and pinched between my fingers, my teapots take the shape of their desire. A line, curved like a bird's neck, the extension of a beak, gently so that water can flow through it"
-        }
-    },
-    "Verseuse": {
-        "titre": {
-            "fr": "Verseuse",
-            "en": "Jug"
-        },
-        "description": {
-            "fr": "Verseuse cueillie je t'ai posé au creux de mes mains. Une fleur d'eau",
-            "en": "Picked jug I put you in the palm of my hands. A water flower"
-        }
-    },
-        "Pot": {
-        "titre": {
-            "fr": "Pot à thé",
-            "en": "Tea box"
-        },
-        "description": {
-            "fr": "Dans le secret d'une boîte, les feuilles sont comme un trésor, camélia d'or",
-            "en": "In the secret of a box, the leaves are like a treasure, golden camellia"
+            "fr": "Des vêtemenst en lin bio fabriqués en Europe",
+            "en": "Linen clothes made out of Europeen linen"
         }
     }
-}
