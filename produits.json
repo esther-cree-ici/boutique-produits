@@ -22,25 +22,25 @@
         ]
     },
     {
-        "id": "ts_1",
+        "id": "ts_2",
         "titre": {
-            "en": "Linen t.shirt long sleeves",
-            "fr": "T.shirt en lin manches longues"
+            "en": "Linen t.shirt short sleeves",
+            "fr": "T.shirt en lin manches courtes"
         },
         "modification": "2021-06-05",
         "création": "2021-06-05",
         "catégorie": "T.Shirt",
         "description": {
-            "en": "A beautiful long sleeves t.shirt designed and sewn up in Brittany.",
-            "fr": "Un joli t.shirt manches longues en lin naturel, inventé et cousu en Bretagne."
+            "en": "A beautiful short sleeves t.shirt designed and sewn up in Brittany.",
+            "fr": "Un joli t.shirt manches courtes en lin naturel, inventé et cousu en Bretagne."
         },
         "prix": 75.00,
         "poids": 0.150,
-        "quantité_produite": 10,
+        "quantité_produite": 5,
         "photos": [
-            "ts_1-a.jpg",
-            "ts_1-b.jpg",
-            "ts_1-c.jpg"
+            "ts_2-a.jpg",
+            "ts_2-b.jpg",
+            "ts_2-c.jpg"
         ]
     }
 ]
